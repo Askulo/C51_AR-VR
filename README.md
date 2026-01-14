@@ -1,31 +1,4 @@
-# React Three Fiber + Vite Starter
 
-_A simple React Three Fiber + Vite starter._
-
-![Preview](/public/preview.gif)
-
-### Resources:
-
-- [React Three Fiber](https://docs.pmnd.rs/react-three-fiber/): Three.js Renderer
-- [Drei](https://github.com/pmndrs/drei): React Three Fiber Helpers
-- [Three.js](https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene): 3D Engine
-- [Vite](https://vitejs.dev/guide/): Static Web Server
-
-### Installation
-
-```
-npm install
-```
-
-### Scripts
-
-```
-npm run dev
-npm run build
-npm run preview
-```
-
----
 
 ## Model: C51 Lecture Hall (BIT Sindri College, Dhanbad, Jharkhand)
 
@@ -40,8 +13,5 @@ This project ships with a 3D model named **C51 Lecture Hall**. Key details:
 - Hotspots & camera views are editable via `src/hotspotConfig.js`.
 - WebXR (AR/VR) availability depends on the browser/device; the UI provides "Enter VR"/"Enter AR" actions which use the WebXR APIs when available.
 
-### Attribution / License
-
-If you have the original author/credit or license for `finalC51.glb`, add it here. Otherwise treat the repository code as MIT (see `package.json`).
 
 ---
